@@ -14,6 +14,12 @@ pnpm dev
 bun dev
 ```
 
+arn:aws:lambda:us-east-1:846928963573:function:lambda-nextjs-santocerrotours
+"ffs2vsllfg"
+yvrbk03
+
+pldyj1
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
